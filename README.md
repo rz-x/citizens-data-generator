@@ -1,12 +1,11 @@
 # Fake Citizen Data Generator 
 
-Python script generates fake citizen data in various formats (CSV, JSON, SQL dump). 
-Bash script is for exporting SQL dump into MySQL server.
+This script generates fake citizen data in various formats (CSV, JSON, SQL dump). 
 
 ## Contents
 
 1. **generatorpy** - Python script to generate synthetic data.
-2. **mysql_exporter.sh** - Bash script to import a SQL dump into MySQL.
+2. **mysql_exporter.sh** - Bash script to export a SQL dump into MySQL.
 
 ## Features
 
