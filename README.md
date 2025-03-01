@@ -1,4 +1,4 @@
-# Fake Citizen Data Generator 
+# Fake Citizens Data Generator 
 
 This script generates fake citizen data in various formats (CSV, JSON, SQL dump). 
 
